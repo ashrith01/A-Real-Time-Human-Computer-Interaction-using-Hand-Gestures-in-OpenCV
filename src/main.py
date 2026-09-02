@@ -12,7 +12,7 @@ from AppOpener import run
 from pynput.keyboard import Key, Controller as KeyboardController
 from pynput.mouse import Controller as MouseController
 
-import HandTrackingModule2 as HTM2
+import hand_tracking_module as HTM2
 
 ##########################
 wCam, hCam = 640, 480
